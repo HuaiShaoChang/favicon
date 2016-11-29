@@ -1,2 +1,3 @@
 # favicon
 ![favicon.ico](favicon.ico)
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAY0lEQVQ4T+1TQQoAIAjL/z+6EFJk6RCiW91qOmttMi6XkP4JWFpbEViz4bh3bkaAmJIc9Z8gEWXLmwnWErH6+9IT8RdwAjOS1zICfU1loHcEOhVvRc8yu8YMYRYM8z6WxlbQF24PHxG7C3ekAAAAAElFTkSuQmCC" />
